@@ -1,0 +1,2 @@
+# riceretail
+GitHub Pages
